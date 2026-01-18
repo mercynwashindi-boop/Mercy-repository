@@ -1,2 +1,3 @@
-# Mercy-repository
-This is my data analytic project
+# vedema.github.io
+
+Week 0 setup completed by Vivian Edema
